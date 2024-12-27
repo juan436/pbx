@@ -51,7 +51,7 @@ services:
       asterisk:
         ipv4_address: 172.18.0.3
       macvlan0:
-        ipv4_address: 172.22.0.50
+        ipv4_address: 192.168.1.180
 
   mariadb:
     container_name: freepbx_mariadb
