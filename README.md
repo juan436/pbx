@@ -124,7 +124,3 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los c
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
-
-<div align="center">
-  Hecho con ❤️ para entornos de desarrollo y pruebas locales
-</div>
